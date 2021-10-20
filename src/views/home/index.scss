@@ -1,0 +1,14 @@
+.h5{
+  font-size: 28px;
+  color: $Color;
+}
+.bg-img{
+  width: 100px;
+  height: 100px;
+  background-image: url("../../assets/images/img.png");
+}
+.Compatible{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
